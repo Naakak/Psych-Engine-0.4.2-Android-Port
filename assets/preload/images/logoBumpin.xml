@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="LogoBumpin.png">
+<TextureAtlas imagePath="logoBumpin.png">
 	<!-- Created with Adobe Animate version 19.0.0.326 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Symbol 110000" x="0" y="0" width="1504" height="704" frameX="-25" frameY="-23" frameWidth="1564" frameHeight="744"/>
